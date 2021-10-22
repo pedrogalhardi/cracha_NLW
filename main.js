@@ -1,5 +1,5 @@
 const LinkSocialMedia = {
-  linkedin: 'in/pedro-galhardi-5b8402197',
+  linkedin: '/in/francislei-galhardi-8b5628206', 
   github: 'pedrogalhardi',
   instagram: 'galhardi.pedro',
   facebook: 'pedrohenrique.galhardi'
