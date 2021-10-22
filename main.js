@@ -10,7 +10,7 @@ function changeSocialMediaLinks() {
     li.children[0].href = `https://${social}.com/${LinkSocialMedia[social]}`
   }
 }
-changeSocialMediaLinks()
+ changeSocialMediaLinks()
 function getGitHubProfileInfos() {
   const url = `https://api.github.com/users/${LinkSocialMedia.github}`
   fetch(url)
